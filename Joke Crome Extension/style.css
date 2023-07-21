@@ -1,0 +1,20 @@
+body {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(206, 206, 206);
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+p {
+    display: inline-flex;
+    margin: auto;
+    font-size: 20px;
+    color: black;
+    border-radius: 6px;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
